@@ -5,7 +5,7 @@
 
 - For more information -> https://en.wikipedia.org/wiki/Simon_(game)
 
-- You can play from here -> You can play from here -> https://onkolahmet.github.io/jQuery_simon_says/
+- You can play from here -> https://onkolahmet.github.io/jQuery_simon_says/
 
 # illustration of sample execution
 
